@@ -14,6 +14,8 @@ Permission is granted to steal or adapt them for use in any project as you see f
 
 [Don't Blame Us License (DBUL)](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Don't%20Blame%20Us/LICENSE)
 
+[Don't Do Evil](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Don't%20Do%20Evil/LICENSE)
+
 [Doomware License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Doomware/LICENSE)
 
 [Unholy Software License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Unholy%20Software/LICENSE)
