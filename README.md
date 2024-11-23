@@ -1,2 +1,2 @@
-# Licence-Files
-This is a repository for various Licence Files
+# License-Files
+This is a repository for various License Files
