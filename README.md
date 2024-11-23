@@ -6,6 +6,8 @@ Permission is granted to steal or adapt them for use in any project as you see f
 ---
 
 # 🗂️ The Files
+[AI-ML BUG-Catcher License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/AI-ML%20Bug-Catcher/LICENSEhttps://github.com/HaroldPetersInskipp/License-Files/blob/main/AI-ML%20Bug-Catcher/LICENSE)
+
 [Arcane License Of Cosmic Rights (ALOCR)](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Arcane%20License%20Of%20Cosmic%20Rights/LICENSE)
 
 [Death Note License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Death%20Note/LICENSE)
@@ -14,7 +16,7 @@ Permission is granted to steal or adapt them for use in any project as you see f
 
 [Don't Blame Us License (DBUL)](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Don't%20Blame%20Us/LICENSE)
 
-[Don't Do Evil](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Don't%20Do%20Evil/LICENSE)
+[Don't Do Evil License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Don't%20Do%20Evil/LICENSE)
 
 [Doomware License](https://github.com/HaroldPetersInskipp/License-Files/blob/main/Doomware/LICENSE)
 
